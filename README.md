@@ -1,3 +1,14 @@
+> ## ⚠️ DISCONTINUED
+>
+> **This fork of `flutter_sms` is no longer maintained.**
+>
+> Please migrate to the official package on pub.dev, which is now maintained by a new maintainer:
+> **https://pub.dev/packages/flutter_sms**
+>
+> No further updates, bug fixes, or releases will be made to this repository.
+
+---
+
 [![Flutter Community: flutter_sms](https://fluttercommunity.dev/_github/header/flutter_sms)](https://github.com/fluttercommunity/community)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://www.buymeacoffee.com/rodydavis)
